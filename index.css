@@ -1,0 +1,90 @@
+body {
+  background-color: hsla(0, 0%, 100%, 0.75);
+}
+.main {
+  width: 20%;
+
+  margin: auto;
+  margin-top: 300px;
+  margin-bottom: 150px;
+  position: relative;
+  right: 258px;
+}
+.sed {
+  background-color: hsl(31, 77%, 52%);
+}
+.suv {
+  background-color: hsl(184, 100%, 22%);
+  position: relative;
+  left: 100%;
+  bottom: 439px;
+}
+
+.lux {
+  background-color: hsl(179, 100%, 13%);
+  position: relative;
+  left: 200%;
+  bottom: 878px;
+}
+h1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: hsl(0, 0%, 95%);
+  position: relative;
+  left: 60px;
+  text-align: justify;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  text-align: justify;
+  position: relative;
+  left: 60px;
+}
+
+.bs {
+  color: hsl(31, 77%, 52%);
+  margin-top: 60px;
+  margin-bottom: 40px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 37px;
+  padding-left: 37px;
+  position: relative;
+  left: 65px;
+  border: none;
+  border-radius: 25px;
+}
+
+.bss {
+  color: hsl(184, 100%, 22%);
+  margin-top: 60px;
+  margin-bottom: 40px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 37px;
+  padding-left: 37px;
+  position: relative;
+  left: 65px;
+  border: none;
+  border-radius: 25px;
+}
+
+.bl {
+  color: hsl(179, 100%, 13%);
+  margin-top: 60px;
+  margin-bottom: 40px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 37px;
+  padding-left: 37px;
+  position: relative;
+  left: 65px;
+  border: none;
+  border-radius: 25px;
+}
+img {
+  padding-top: 50px;
+  padding-left: 50px;
+}
